@@ -79,7 +79,7 @@ npm --version
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/<seu-usuario>/agi-blog-tests.git
+git clone https://github.com/felipenoite/agi-blog-tests.git
 cd agi-blog-tests
 ```
 
@@ -213,4 +213,4 @@ Acesse a aba **Actions** no repositório do GitHub para visualizar o histórico 
 
 ## 👤 Autor
 
-Desenvolvido como parte do processo seletivo para a vaga de QA na **Agibank**.
+Desenvolvido como parte do processo seletivo para a vaga de QA na **Mirante**.
